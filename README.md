@@ -5,7 +5,7 @@ Simple app which displays quotes from static file. It uses Node.js, express.js a
 After downloading the code, run "npm install" to install all packages from package.json file.
 
 Once all the packages are installed, run "npm start" or "npm run dev" to start with nodemon utility.
-In the console, you would see - "Server listeining on PORT 3000".
+In the console, you would see - "Server listening on PORT 3000".
 Open the browser and enter the following address to view the application - "http://localhost:3000/"
 Below is the view of the application from the browser - 
 
